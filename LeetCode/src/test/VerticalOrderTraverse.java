@@ -1,6 +1,6 @@
 package test;
 
-import lc.TreeNode;
+import lc_att.TreeNode;
 
 //	     1
 //     /    \

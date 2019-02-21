@@ -1,7 +1,7 @@
 package test;
 
-import lc.ListNode;
-import lc.ListNodeFunction;
+import lc_att.ListNode;
+import lc_att.ListNodeFunction;
 
 public class ReverseList {
 

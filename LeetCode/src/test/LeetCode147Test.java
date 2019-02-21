@@ -1,6 +1,6 @@
 package test;
 
-import lc.ListNode;
+import lc_att.ListNode;
 
 public class LeetCode147Test {
 
